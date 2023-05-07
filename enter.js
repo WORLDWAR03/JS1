@@ -1,8 +1,8 @@
 
 
-let x=5.17; y=3;
-z=x%y;
-console.log("x%y =",z)
+let a=6.45; b=34;c=23.3;
+z=a+b*c;
+console.log("a+bxc =",z)
 
 
 
