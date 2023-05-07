@@ -1,8 +1,18 @@
+// results of a student ,checking dose he passed or not?
+let Sub1=70;
+let Sub2=80;
+let Sub3=90;
+let Sub4=50;
 
+total=Sub1+Sub2+Sub3+Sub4;
+passmark=250;
 
-let a=6.45; b=34;c=23.3;
-z=a+b*c;
-console.log("a+bxc =",z)
+if(total>=passmark){
+    console.log("passed")
+
+}else{
+    console.log("failed")
+}
 
 
 
